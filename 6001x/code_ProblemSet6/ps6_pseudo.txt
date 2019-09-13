@@ -1,0 +1,18 @@
+
+● SQL or other DBs knowledge, data structures
+
+
+
+____________________________________________________________________________________
+
+- SAN
+- hardware raid
+- NAS(port teaming, nfs, samba)
+- DDN products
+- kernel compile
+- experiences datarecovery, service degradation, unknown errors
+- data storages
+- scripts
+- IBM tivoli
+- multipass(MPIO)
+- KVM virtualization
