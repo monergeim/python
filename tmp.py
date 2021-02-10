@@ -1,6 +1,6 @@
 print("World.\nHold on. Ta-ta-ta-tata")
 
-a=10
+a=35
 b="Hi"
 name="mr.serg li"
 
@@ -16,3 +16,6 @@ for i in range(0,4):
         continue
     print(i)
     print("x="+str(x))
+
+print (f"Hello, {name.title()}. You are {a}.")
+print (f"Hello dlrow")
