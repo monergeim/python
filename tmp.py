@@ -17,5 +17,8 @@ for i in range(0,4):
     print(i)
     print("x="+str(x))
 
+msg="dlrow olleh"
+
 print (f"Hello, {name.title()}. You are {a}.")
 print (f"Hello dlrow")
+print(msg[::-1])
