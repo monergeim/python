@@ -51,3 +51,9 @@ name.upper()
 name.title()
 name.swapcase()
 
+#Dicts
+map = {'key-1': 'value-1', 'key-2': 'value-2', 'key-3': 'value-3'}
+#det deffault val if key not in dict
+map.get('key-4', 'default-value')
+
+cap_map = {x: x.upper() for x in letters}
