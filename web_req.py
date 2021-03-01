@@ -6,9 +6,16 @@ import requests
 w_link = sys.argv[1]
 x = requests.get(w_link)
 
-#print ('Number of arguments:', len(sys.argv), 'arguments.')
-#print ('Argument List:', str(sys.argv))
-#print ("This is the name of the script: ", sys.argv[0])
-#print ("This is the first arg: ", sys.argv[1])
 
-print(x.text)
+#print(x.text)
+
+with open('Output_new.txt', 'w') as file:
+    file.write(x.text)
+    file.close()
+
+with open('Output.txt') as f1, open('Output_new.txt') as f2:
+    for line1, line2 in zip(f1, f2):
+        if line1 != line2:
+            print("Fail")
+            print(line1)
+            print(line2)

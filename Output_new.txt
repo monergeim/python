@@ -14,7 +14,16 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-PDRJ2P2');</script>
-<!-- End Google Tag Manager -->			
+<!-- End Google Tag Manager -->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '596162327422104');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=596162327422104&ev=PageView&noscript=1"/></noscript>
+<!-- End Facebook Pixel Code -->
+			
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=0">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -5549,6 +5558,7 @@ s0.parentNode.insertBefore(s1,s0);
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PDRJ2P2"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->	  		  <input type="hidden" value="AW-659453915" class="google_identifier" />
+      	  		  <input type="hidden" value="" class="ecommerce_ga4_identifier" />
       	  		  <input type="hidden" value="UAH" class="currency_remarketing_code" />
       	  		  <input type="hidden" value="UAH" class="currency_google_code" />
       	  		  <input type="hidden" value="UAH" class="currency_facebook_code" />
@@ -7417,13 +7427,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                           <br/>
                                                                                                                     <div class="radio">
                                   <label class="not-selected-img">
-                                    <img src="https://sturm.com.ua/image/cache/catalog/color/0109A-Black-Taiga-Green-50x50.jpg" alt="0109A-Black/Taiga Green" class="img-thumbnail" title="0109A-Black/Taiga Green" />
+                                    <img src="https://sturm.com.ua/image/cache/catalog/color/01-Black-50x50.jpg" alt="01-Black" class="img-thumbnail" title="01-Black" />
                                   </label>
                                 </div>
                                
                                                                                           <div class="radio">
                                   <label class="not-selected-img">
-                                    <img src="https://sturm.com.ua/image/cache/catalog/color/01-Black-50x50.jpg" alt="01-Black" class="img-thumbnail" title="01-Black" />
+                                    <img src="https://sturm.com.ua/image/cache/catalog/color/0109A-Black-Taiga-Green-50x50.jpg" alt="0109A-Black/Taiga Green" class="img-thumbnail" title="0109A-Black/Taiga Green" />
                                   </label>
                                 </div>
                                
@@ -8185,26 +8195,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </script>
 <!--microdatapro 7.0 breadcrumb end [json-ld] -->
   
-		<script>
+			<script>
 	if (typeof sendGoogleRemarketing !== 'undefined') {
 		sendGoogleRemarketing({"event":"view_item_list","data":{"send_to":"AW-659453915","items":[{"id":"7065","google_business_vertical":"retail"},{"id":"7021","google_business_vertical":"retail"},{"id":"7064","google_business_vertical":"retail"},{"id":"7062","google_business_vertical":"retail"},{"id":"10442","google_business_vertical":"retail"},{"id":"3490","google_business_vertical":"retail"},{"id":"6872","google_business_vertical":"retail"},{"id":"3493","google_business_vertical":"retail"},{"id":"10447","google_business_vertical":"retail"},{"id":"10448","google_business_vertical":"retail"},{"id":"10449","google_business_vertical":"retail"},{"id":"10450","google_business_vertical":"retail"},{"id":"7102","google_business_vertical":"retail"},{"id":"6874","google_business_vertical":"retail"},{"id":"7950","google_business_vertical":"retail"},{"id":"6298","google_business_vertical":"retail"},{"id":"7016","google_business_vertical":"retail"},{"id":"7061","google_business_vertical":"retail"}]}});
 	}
 	</script>
-				<script type="text/javascript">
-$(document).ready(function() {
-if (typeof fbq != 'undefined') {
-fbq('trackCustom', 'ViewCategory', {
-content_name: 'Helikon-Tex',
-content_ids: ['7065','7021','7064','7062','10442','3490','6872','3493','10447','10448','10449','10450','7102','6874','7950','6298','7016','7061'],
-content_type: 'product',
-currency: 'UAH',
-value: 0
-}, {eventID: 1614085896})}});
-</script>
-				<script>
+								<script> 
 	window.ecommerce_products = window.ecommerce_products || {};
 	ecommerce_product_data = [{"name":"\u0410\u043d\u043e\u0440\u0430\u043a Helikon-Tex PILGRIM","id":"7065","price":2723,"brand":"Helikon-Tex","list":"Helikon-Tex","currency":"UAH","category":"Helikon-Tex","position":1},{"name":"\u0410\u043d\u043e\u0440\u0430\u043a MISTRAL - Soft Shell","id":"7021","price":2329,"brand":"Helikon-Tex","list":"Helikon-Tex","currency":"UAH","category":"Helikon-Tex","position":2},{"name":"\u0410\u043d\u043e\u0440\u0430\u043a WOODSMAN","id":"7064","price":2163,"brand":"Helikon-Tex","list":"Helikon-Tex","currency":"UAH","category":"Helikon-Tex","position":3},{"name":"\u0411\u0435\u0439\u0441\u0431\u043e\u043b\u043a\u0430 Helikon-Tex Trucker Logo","id":"7062","price":331,"brand":"Helikon-Tex","list":"Helikon-Tex","currency":"UAH","category":"Helikon-Tex","position":4},{"name":"\u0412\u0441\u0442\u0430\u0432\u043a\u0430 BACKPACK PANEL INSERT - Cordura","id":"10442","price":525,"brand":"Helikon-Tex","list":"Helikon-Tex","currency":"UAH","category":"Helikon-Tex","position":5},{"name":"\u0415\u043c\u0431\u043b\u0435\u043c\u0430 BEARDMAN BUSHCRAFT","id":"3490","price":163,"brand":"Helikon-Tex","list":"Helikon-Tex","currency":"UAH","category":"Helikon-Tex","position":6},{"name":"\u0415\u043c\u0431\u043b\u0435\u043c\u0430 BEARDMAN PATROL","id":"6872","price":163,"brand":"Helikon-Tex","list":"Helikon-Tex","currency":"UAH","category":"Helikon-Tex","position":7},{"name":"\u0415\u043c\u0431\u043b\u0435\u043c\u0430 BEARDMAN RANGE","id":"3493","price":163,"brand":"Helikon-Tex","list":"Helikon-Tex","currency":"UAH","category":"Helikon-Tex","position":8},{"name":"\u0415\u043c\u0431\u043b\u0435\u043c\u0430 HEART - PVC ","id":"10447","price":157,"brand":"Helikon-Tex","list":"Helikon-Tex","currency":"UAH","category":"Helikon-Tex","position":9},{"name":"\u0415\u043c\u0431\u043b\u0435\u043c\u0430 LEAD OVERDOSE  ","id":"10448","price":157,"brand":"Helikon-Tex","list":"Helikon-Tex","currency":"UAH","category":"Helikon-Tex","position":10},{"name":"\u0415\u043c\u0431\u043b\u0435\u043c\u0430 PEW-PEW - PVC ","id":"10449","price":157,"brand":"Helikon-Tex","list":"Helikon-Tex","currency":"UAH","category":"Helikon-Tex","position":11},{"name":"\u0415\u043c\u0431\u043b\u0435\u043c\u0430 RINGTONE ","id":"10450","price":157,"brand":"Helikon-Tex","list":"Helikon-Tex","currency":"UAH","category":"Helikon-Tex","position":12},{"name":"\u0415\u043c\u0431\u043b\u0435\u043c\u0430 ROAD SIGN - PVC","id":"7102","price":163,"brand":"Helikon-Tex","list":"Helikon-Tex","currency":"UAH","category":"Helikon-Tex","position":13},{"name":"\u0415\u043c\u0431\u043b\u0435\u043c\u0430 TRUST ME IM AN ENGINEER","id":"6874","price":163,"brand":"Helikon-Tex","list":"Helikon-Tex","currency":"UAH","category":"Helikon-Tex","position":14},{"name":"\u041a\u0456\u043b\u043a\u0438 \u0430\u043b\u044e\u043c\u0456\u043d\u0456\u0454\u0432\u0456 - 4 \u0448\u0442.","id":"7950","price":202,"brand":"Helikon-Tex","list":"Helikon-Tex","currency":"UAH","category":"Helikon-Tex","position":15},{"name":"\u041a\u0456\u0442\u0435\u043b\u044c MBDU - NyCo Ripstop","id":"6298","price":1646,"brand":"Helikon-Tex","list":"Helikon-Tex","currency":"UAH","category":"Helikon-Tex","position":16},{"name":"\u041a\u043e\u0431\u0443\u0440\u0430 Inverted Pistol Holder Insert - Cordura","id":"7016","price":271,"brand":"Helikon-Tex","list":"Helikon-Tex","currency":"UAH","category":"Helikon-Tex","position":17},{"name":"\u041a\u043e\u0431\u0443\u0440\u0430 Inverted Pistol Holder Insert - Nylon","id":"7061","price":269,"brand":"Helikon-Tex","list":"Helikon-Tex","currency":"UAH","category":"Helikon-Tex","position":18}];
-
 	if (typeof sendEcommerceImpressions !== 'undefined') {
 		sendEcommerceImpressions(ecommerce_product_data, true);
 	}
@@ -8219,7 +8217,8 @@ value: 0
 	}
 	ecommerce_ga4_products = $.extend(ecommerce_ga4_products, ecommerce_ga4_product_data);
 	  </script>
-	  			  
+	  	 
+		  
 <!-- BANNER 2 - 1 blocks -->
 <!-- CONTENT 2 - 3 blocks -->
 <!-- BOTTOM - 4 blocks -->
@@ -8531,7 +8530,7 @@ value: 0
         $("#pos-footer5").remove();
         $(posFooter5).appendTo('FOOTER');
     });
-</script>
+</script> 
 	  	  
 	  
 
@@ -8549,7 +8548,7 @@ value: 0
 
 
 	  <script>
-	  	   $(document).on('click', '.product-thumb', function() {
+	  	   $(document).on('click touchstart', '.product-thumb', function() {
 	    if (typeof ecommerce_product_data !== 'undefined') {
 		product_id = $(this).find('.remarketing_cart_button').attr('data-product_id');
 		
@@ -8566,7 +8565,7 @@ value: 0
 		}
 		}
 	  });
-	  	  	   $(document).on('click', '.product-thumb', function() {
+	  	  	   $(document).on('click touchstart', '.product-thumb', function() {
 	    if (typeof ecommerce_ga4_product_data !== 'undefined') {
 		item_id = $(this).find('.remarketing_cart_button').attr('data-product_id');
 		$(ecommerce_ga4_product_data).each(function(key, data) {
@@ -8580,45 +8579,21 @@ value: 0
 		})
 		}
 	  })
-	  	  	  $(document).on('click', '.product-thumb', function() {
+	  	  	  $(document).on('click touchstart', '.product-thumb', function() {
 	    if (typeof ecommerce_product_data !== 'undefined') {
 		product_id = $(this).find('.remarketing_cart_button').attr('data-product_id');
-		if (product_id) {
-			if (typeof ecommerce_product_data[product_id] !== 'undefined') {
+		$(ecommerce_product_data).each(function(key, data) {
+		if (data['id'] == product_id) {
+			if (typeof ecommerce_product_data[key] !== 'undefined') {
 				if (typeof sendEcommerceMeasurementClick !== 'undefined') {
-					sendEcommerceMeasurementClick(ecommerce_product_data[product_id]);
+					sendEcommerceMeasurementClick(ecommerce_product_data[key]);
 				}
 			}
-		}
+		} 
+		})
 		}
 	  })
 	       </script>
-	
-	<script>
-	$(document).ajaxSuccess(function(event, xhr, settings) {
-		if (settings.url == 'index.php?route=checkout/cart/add') {
-			if (typeof xhr.responseJSON['remarketing'] !== 'undefined') {
-				if (typeof remarketingAddToCart == 'function') {
-					remarketingAddToCart(xhr.responseJSON);
-				}
-			}
-		}
-		if (settings.url == 'index.php?route=checkout/cart/remove') {
-			if (typeof xhr.responseJSON['remarketing'] !== 'undefined') {
-				if (typeof remarketingRemoveFromCart == 'function') {
-					remarketingRemoveFromCart(xhr.responseJSON);
-				}
-			}
-		}
-		if (settings.url == 'index.php?route=account/wishlist/add') {
-			if (typeof xhr.responseJSON['remarketing'] !== 'undefined') {
-				if (typeof sendWishList == 'function') {
-					sendWishList(xhr.responseJSON);
-				}
-			}
-		}
-	});
-	</script>
 	
 
                   <script>
