@@ -7427,13 +7427,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                           <br/>
                                                                                                                     <div class="radio">
                                   <label class="not-selected-img">
-                                    <img src="https://sturm.com.ua/image/cache/catalog/color/01-Black-50x50.jpg" alt="01-Black" class="img-thumbnail" title="01-Black" />
+                                    <img src="https://sturm.com.ua/image/cache/catalog/color/0109A-Black-Taiga-Green-50x50.jpg" alt="0109A-Black/Taiga Green" class="img-thumbnail" title="0109A-Black/Taiga Green" />
                                   </label>
                                 </div>
                                
                                                                                           <div class="radio">
                                   <label class="not-selected-img">
-                                    <img src="https://sturm.com.ua/image/cache/catalog/color/0109A-Black-Taiga-Green-50x50.jpg" alt="0109A-Black/Taiga Green" class="img-thumbnail" title="0109A-Black/Taiga Green" />
+                                    <img src="https://sturm.com.ua/image/cache/catalog/color/01-Black-50x50.jpg" alt="01-Black" class="img-thumbnail" title="01-Black" />
                                   </label>
                                 </div>
                                
@@ -7527,13 +7527,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                           <br/>
                                                                                                                     <div class="radio">
                                   <label class="not-selected-img">
-                                    <img src="https://sturm.com.ua/image/cache/catalog/color/0120A-swatch-50x50.jpg" alt="0120-Black/White" class="img-thumbnail" title="0120-Black/White" />
+                                    <img src="https://sturm.com.ua/image/cache/catalog/color/0113-Black-Khaki-50x50.jpg" alt="0113-Black/Khaki" class="img-thumbnail" title="0113-Black/Khaki" />
                                   </label>
                                 </div>
                                
                                                                                           <div class="radio">
                                   <label class="not-selected-img">
-                                    <img src="https://sturm.com.ua/image/cache/catalog/color/0113-Black-Khaki-50x50.jpg" alt="0113-Black/Khaki" class="img-thumbnail" title="0113-Black/Khaki" />
+                                    <img src="https://sturm.com.ua/image/cache/catalog/color/0120A-swatch-50x50.jpg" alt="0120-Black/White" class="img-thumbnail" title="0120-Black/White" />
                                   </label>
                                 </div>
                                
